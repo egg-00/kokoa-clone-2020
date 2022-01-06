@@ -19,6 +19,22 @@
   align-items: center;
 }
 
+.more-suggestions__icon-image {
+  display: flex;
+  width: 60px;
+  height: 60px;
+  background-color: var(--yellow);
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.more-suggestions__icon-image {
+  font-size: 32px;
+  color: white;
+  margin-bottom: 5px;
+}
+
 .more-suggestions__title {
   margin-bottom: 30px;
 }
